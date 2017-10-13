@@ -1,0 +1,4 @@
+// policy for DIO framework
+grant {
+        permission jdk.dio.DeviceMgmtPermission "*:*", "open";
+};
